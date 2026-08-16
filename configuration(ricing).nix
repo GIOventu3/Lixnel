@@ -150,12 +150,11 @@
     tty-clock
     cmatrix
     sl
-    pkgs.jamesdsp
     lavat     
     audacious
     sptlrx   
     steam-run
-    yt-dlp
+    python3
     
   ];
 
