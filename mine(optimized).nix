@@ -55,7 +55,7 @@
   services.tailscale.enable = true;
 
   # Localisation
-  time.timeZone = "Asia/Yangon";
+  time.timeZone = "YOUR TIME";
   i18n.defaultLocale = "en_US.UTF-8";
 
   # -----------------------------------------------------------------
